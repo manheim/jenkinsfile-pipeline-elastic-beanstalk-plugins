@@ -29,6 +29,8 @@ If applicable, add screenshots to help explain your problem.
 **Relevant version information:**
  - Jenkins version:
  - Jenkins pipeline plugin version:
+ - jenkinsfile-pipeline version:
+ - jenkinsfile-pipeline-elastic-beanstalk-plugins version:
  - Other relevant plugin versions:
 
 **Additional context**
