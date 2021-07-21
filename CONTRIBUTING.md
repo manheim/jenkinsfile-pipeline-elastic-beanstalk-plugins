@@ -22,7 +22,7 @@ This project is a set of ancillary plugins to support [jenkinsfile-pipeline](htt
 4.  Make a branch in your fork, named after your issue. Ex: "issue_152"
 5.  Make your changes in the branch and run the tests and codestyle checks with with `./gradlew check --info`
 6.  Update the CHANGELOG with your changes. Changes are queued under "Unreleased", until an official release is cut.
-7.  Validate your changes by pointing a terraform-pipeline project to your fork's branch, and run an actual pipeline.
+7.  Validate your changes by pointing a jenkinsfile-pipeline-elastic-beanstalk-plugin project to your fork's branch, and run an actual pipeline.
 8.  Make a PR against the master branch of this project, and reference your Issue in the PR.
 9.  Your PR will be reviewed and merged into master.
 10.  Changes in master will be periodically grouped and published as a Release.
